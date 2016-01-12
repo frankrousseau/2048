@@ -1,0 +1,12 @@
+{
+  "name": "2048",
+  "cozy-type": "static",
+  "displayName": "2048",
+  "version": "1.0.0",
+  "description": "The 2048 game!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankrousseau/2048.git"
+  },
+  "main": "index.html"
+}
